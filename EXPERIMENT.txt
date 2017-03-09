@@ -1,0 +1,10 @@
+
+Kewen Gu
+CS4513 Project1
+Jan 24, 2016
+
+For the experiment, I wrote some bash scripts to test the performance of the program.
+
+When renaming a testfile of size 1G to another partition, the average execution time of the system call rename based on 20 executions is approximately 0.00186 secs, and the throughput is around 570 gigabytes.
+
+According to the experiment results, removing inside the same directory should be faster than removing to another directory. But because the high computing ability of the CCC machine, the difference is not obvious. 
