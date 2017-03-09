@@ -1,6 +1,5 @@
 
 Kewen Gu
-CS4513 Project1
 Jan 24, 2016
 
 There're 4 files including rm.c, dv.c, dump.c, and Makefile.
